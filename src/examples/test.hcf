@@ -1,0 +1,10 @@
+// comment
+
+dkey    dvalue
+
+field:
+        fkey    fvalue
+
+field2:
+        f2key   f2value
+        f2key2  f2value2
